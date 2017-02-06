@@ -10,3 +10,5 @@ Description of problems - https://softuni.bg/trainings/resources/officedocument/
 - problems with Simple Conditional Statements - https://github.com/yani-valeva/Programming-Basics/tree/master/SimpleConditions
 Description of problems - https://softuni.bg/trainings/resources/officedocument/10165/exercise-problem-descriptions-programming-basics-august-2016.
 
+- problems with Complex Conditional Statements - https://github.com/yani-valeva/Programming-Basics/tree/master/ComplexConditions
+Description of problems - https://softuni.bg/trainings/resources/officedocument/10167/exercise-problem-descriptions-programming-basics-august-2016.
