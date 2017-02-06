@@ -12,3 +12,6 @@ Description of problems - https://softuni.bg/trainings/resources/officedocument/
 
 - problems with Complex Conditional Statements - https://github.com/yani-valeva/Programming-Basics/tree/master/ComplexConditions
 Description of problems - https://softuni.bg/trainings/resources/officedocument/10167/exercise-problem-descriptions-programming-basics-august-2016.
+
+- problems with Simple Loops - https://github.com/yani-valeva/Programming-Basics/tree/master/SimpleLoops
+Description of problems - https://softuni.bg/trainings/resources/officedocument/10404/exercise-problem-descriptions-programming-basics-august-2016.
