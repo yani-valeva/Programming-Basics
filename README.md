@@ -21,3 +21,6 @@ Description of problems - https://softuni.bg/trainings/resources/officedocument/
 
 - advanced loops problems - https://github.com/yani-valeva/Programming-Basics/tree/master/AdvancedLoops
 Description of problems - https://softuni.bg/trainings/resources/officedocument/10541/exercise-problem-descriptions-programming-basics-august-2016.
+
+- exam preparation - https://github.com/yani-valeva/Programming-Basics/tree/master/ExamPreparation
+Description of some of the problems - https://softuni.bg/trainings/resources/officedocument/10713/sample-exam-problem-descriptions-programming-basics-august-2016.
