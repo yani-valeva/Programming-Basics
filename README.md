@@ -15,3 +15,6 @@ Description of problems - https://softuni.bg/trainings/resources/officedocument/
 
 - problems with Simple Loops - https://github.com/yani-valeva/Programming-Basics/tree/master/SimpleLoops
 Description of problems - https://softuni.bg/trainings/resources/officedocument/10404/exercise-problem-descriptions-programming-basics-august-2016.
+
+- problems with drawing figures with loops - https://github.com/yani-valeva/Programming-Basics/tree/master/DrawWithLoops
+Description of problems - https://softuni.bg/trainings/resources/officedocument/10436/exercise-problem-descriptions-programming-basics-august-2016.
