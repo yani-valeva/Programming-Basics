@@ -18,3 +18,6 @@ Description of problems - https://softuni.bg/trainings/resources/officedocument/
 
 - problems with drawing figures with loops - https://github.com/yani-valeva/Programming-Basics/tree/master/DrawWithLoops
 Description of problems - https://softuni.bg/trainings/resources/officedocument/10436/exercise-problem-descriptions-programming-basics-august-2016.
+
+- advanced loops problems - https://github.com/yani-valeva/Programming-Basics/tree/master/AdvancedLoops
+Description of problems - https://softuni.bg/trainings/resources/officedocument/10541/exercise-problem-descriptions-programming-basics-august-2016.
