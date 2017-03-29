@@ -26,3 +26,5 @@ Description of problems - https://softuni.bg/trainings/resources/officedocument/
 Description of some of the problems - https://softuni.bg/trainings/resources/officedocument/10713/sample-exam-problem-descriptions-programming-basics-august-2016.
 
 - my final exam - https://github.com/yani-valeva/Programming-Basics/tree/master/Exam
+
+- other exams = https://github.com/yani-valeva/Programming-Basics/tree/master/OtherExams
